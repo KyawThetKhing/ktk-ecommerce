@@ -1,0 +1,19 @@
+.loginContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.input {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.btn-login {
+  padding: 10px;
+  width: 100px;
+}
